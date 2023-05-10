@@ -6,9 +6,9 @@ FinHookMaster - это инструмент, который обеспечива
 
 FinHookMaster использует открытые данные, предоставляемые TradingView, включая множество стратегий и индикаторов, доступных на платформе. Это предоставляет пользователям возможность выбора из тысяч различных стратегий для автоматической торговли. Ниже приведены некоторые примеры стратегий и индикаторов, которые можно использовать:
 
-- [Moving Average Crossover Strategy](https://www.tradingview.com/script/M9X1FJMT-Moving-Average-Crossover-Strategy/)
-- [RSI Divergence Indicator](https://www.tradingview.com/script/c4ODXsYV-RSI-Divergence-Indicator/)
-- [MACD Strategy](https://www.tradingview.com/script/OGc6KsLt-MACD-Strategy/)
+- [Moving Average Crossover Strategy](https://ru.tradingview.com/v/Ip667jzb/)
+- [RSI Divergence Indicator](https://ru.tradingview.com/v/7mYAGmYK/)
+- [MACD Strategy](https://ru.tradingview.com/v/DushajXt/)
 
 Пожалуйста, обратите внимание, что каждый пользователь должен провести собственный анализ и выбрать стратегию, которая наилучшим образом соответствует его потребностям и рискам. 
 
